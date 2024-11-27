@@ -1,0 +1,9 @@
+{
+	"id": "paste-link-plugin",
+	"name": "Paste Link Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automatically converts selected text into markdown link when pasting URLs",
+	"author": "Your Name",
+	"isDesktopOnly": false
+}
